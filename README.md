@@ -1,5 +1,5 @@
-# Resizing-Set-of-Images
+# Rescaling Set-of-Images
 
 
-Resizing set of images with opencv
+Rescaling set of images with opencv
 
