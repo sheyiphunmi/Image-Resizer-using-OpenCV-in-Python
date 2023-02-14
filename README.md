@@ -1,4 +1,4 @@
-# Rescaling Set-of-Images
+# Using Python to Create Image Filters
 
 
 Rescaling set of images with opencv
